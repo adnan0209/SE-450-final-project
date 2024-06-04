@@ -1,5 +1,5 @@
 # SE-450-final-project
-
+### Git Repository link: https://github.com/adnan0209/SE-450-final-project.git
 # Java Shopping System
 
 This Java Shopping System is a simplified yet comprehensive application designed for educational purposes. It simulates an online shopping experience where users can register, log in, browse products, add items to their shopping cart, place orders, and simulate payments.
