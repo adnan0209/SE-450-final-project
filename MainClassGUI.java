@@ -80,7 +80,7 @@ public class MainClassGUI extends JFrame {
 
 
 
- JButton registerButton = new JButton("Register");
+ JButton registerButton = new JButton("Register here");
 
  registerButton.setBounds(20, 20, 120, 30);
 
