@@ -27,6 +27,7 @@ Compile the Java classes
 javac *.java
 # Run the command-line interface
 java MainClass
-###or use IDE like vscode or eclipse by downloading the files.
+# or use IDE 
+like vscode or eclipse by downloading the files.
 # Or run the graphical user interface
 java MainClassGUI
